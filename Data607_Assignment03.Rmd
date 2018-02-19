@@ -18,6 +18,8 @@ library(stringr)
 library(dplyr)
 ```
 
+Github for homework: https://github.com/rweberc/Data607_Assignment3
+
 #### Raw string
 ```{r}
 raw.data <-"555-1239Moe Szyslak(636) 555-0113Burns, C. Montgomery555-6542Rev. Timothy Lovejoy555 8904Ned Flanders636-555-3226Simpson, Homer5553642Dr. Julius Hibbert"
